@@ -1,4 +1,11 @@
-### Hi there 👋
+## 自己紹介
+### 名前
+Rim
+### 趣味
+プログラミング
+### 好きなもの
+うどん、そば、ラーメン  
+プラモデル改造
 
 <!--
 **Rim1025/Rim1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
